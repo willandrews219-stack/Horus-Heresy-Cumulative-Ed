@@ -1,4 +1,4 @@
-Horus Heresy
+Horus Heresy Cumulative
 ============
 
 [![Latest release](https://img.shields.io/github/release/BSData/horus-heresy-1e.svg?style=flat-square)](https://github.com/BSData/horus-heresy-1e/releases/latest)
