@@ -17,19 +17,9 @@ __BattleScribe v1.15 users Notice__: _However we don't support BattleScribe v1.1
 
 __What's this?__
 
-This repo contains the Horus Heresy 1.0 Data. It is unmaintained and here for archival purposes. 
+A fan continued rendition of Horus Heresy with Warhammer 40,000 7th edition and Horus Hersey 3.0 units included
 
-BSData organisation created this project. It's a GitHub repository of datafiles.
-Maintained by community, in no way endorsed by BattleScribe or any other company/publisher. If you want
-to develop - cool! We need you! Take a look at [our homepage][BSData.net]
 
-__Okay, nice project. Is it actually working?__ _I just want those files..._
-
-Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][]
-
-__I found a bug!__ / *I have another request*
-
-Great, thank you! Please [Report a bug][bug report] - you can also suggest enhancements and raise other issues there.
 
 
 ## Standards
